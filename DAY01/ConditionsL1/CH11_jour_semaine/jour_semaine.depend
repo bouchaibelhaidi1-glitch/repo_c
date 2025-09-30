@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758634630 source:c:\users\ycode\desktop\jour_semaine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

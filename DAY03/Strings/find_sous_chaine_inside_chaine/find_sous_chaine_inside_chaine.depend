@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758809127 source:c:\users\ycode\desktop\find_sous_chaine_inside_chaine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
